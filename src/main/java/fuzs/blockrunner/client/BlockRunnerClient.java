@@ -1,8 +1,8 @@
 package fuzs.blockrunner.client;
 
-import fuzs.blockrunner.api.event.entity.player.ItemTooltipCallback;
 import fuzs.blockrunner.client.handler.BlockSpeedTooltipHandler;
 import net.fabricmc.api.ClientModInitializer;
+import net.fabricmc.fabric.api.client.item.v1.ItemTooltipCallback;
 
 public class BlockRunnerClient implements ClientModInitializer {
     public static void onConstructMod() {

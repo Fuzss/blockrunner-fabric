@@ -5,7 +5,6 @@
   "package": "fuzs.blockrunner.mixin",
   "refmap": "META-INF/blockrunner.refmap.json",
   "mixins": [
-    "ItemStackMixin",
     "LivingEntityMixin"
   ],
   "client": [
